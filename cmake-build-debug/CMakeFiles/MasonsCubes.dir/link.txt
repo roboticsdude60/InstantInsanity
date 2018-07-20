@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MasonsCubes.dir/main.cpp.o CMakeFiles/MasonsCubes.dir/Cube.cpp.o  -o MasonsCubes 

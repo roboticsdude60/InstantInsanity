@@ -1,0 +1,3 @@
+/users/guest/j/jscholl4/CLionProjects/MasonsCubes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/users/guest/j/jscholl4/CLionProjects/MasonsCubes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/users/guest/j/jscholl4/CLionProjects/MasonsCubes/cmake-build-debug/CMakeFiles/MasonsCubes.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/users/guest/j/jscholl4/CLionProjects/MasonsCubes/Cube.cpp
+Cube.h
+/users/guest/j/jscholl4/CLionProjects/MasonsCubes/Cube.h
+
+/users/guest/j/jscholl4/CLionProjects/MasonsCubes/Cube.h
+string
+-
+
+/users/guest/j/jscholl4/CLionProjects/MasonsCubes/main.cpp
+iostream
+-
+Cube.h
+/users/guest/j/jscholl4/CLionProjects/MasonsCubes/Cube.h
+list
+-
+set
+-
+stack
+-
+cmath
+-
+

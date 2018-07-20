@@ -1,0 +1,4 @@
+/users/guest/j/jscholl4/Software/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /users/guest/j/jscholl4/CLionProjects/MasonsCubes
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /users/guest/j/jscholl4/CLionProjects/MasonsCubes/cmake-build-debug
